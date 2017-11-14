@@ -1,5 +1,7 @@
 # Summoners-War-Rune-Efficiency-Calculator
  The algorithm used in this program is based on Barion's Rune Efficiency Theory
+ <br />
+ RuneEff(Sum of Hp, Def, Acc, Res stats, Sum of Spd, Critical Rate stats, Value of Critical Damage stat)
 # Why numbers were chosen:
  In a 6* rune,
  40: HP%, Def%, Acc, Res can start at 8% and roll into itself 4 more times in a Legend rune (8+8*4)
